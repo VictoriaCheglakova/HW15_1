@@ -1,2 +1,5 @@
-pytest
+pytest~=8.3.4
 allure-pytest
+
+selene>=2.0.0rc9
+selenium~=4.24.0
